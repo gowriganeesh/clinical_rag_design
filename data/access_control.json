@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "source_doc": "patient_A47_history.txt",
+      "patient_id": "PAT_A47",
+      "acl": ["PAT_A47", "EXAMINER_1192"]
+    },
+    {
+      "source_doc": "patient_B23_history.txt",
+      "patient_id": "PAT_B23",
+      "acl": ["PAT_B23", "EXAMINER_1192"]
+    },
+    {
+      "source_doc": "patient_C88_history.txt",
+      "patient_id": "PAT_C88",
+      "acl": ["PAT_C88", "EXAMINER_2031"]
+    },
+    {
+      "source_doc": "patient_D15_history.txt",
+      "patient_id": "PAT_D15",
+      "acl": ["PAT_D15", "EXAMINER_2031"]
+    },
+    {
+      "source_doc": "patient_E62_history.txt",
+      "patient_id": "PAT_E62",
+      "acl": ["PAT_E62", "EXAMINER_1192"]
+    }
+  ]
+}

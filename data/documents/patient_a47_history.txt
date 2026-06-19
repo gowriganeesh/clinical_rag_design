@@ -1,0 +1,7 @@
+Patient is a 58-year-old with a history of type 2 diabetes mellitus diagnosed approximately six years ago, currently managed with metformin 500mg twice daily. Hypertension was noted three years ago and is controlled with lisinopril 10mg once daily. The most recent HbA1c was 7.2%, indicating reasonable glycemic control, and blood pressure at the last visit was 128/82 mmHg.
+
+The patient reports good adherence to medication and follows a moderate-carbohydrate diet. There is no history of diabetic retinopathy or nephropathy; the annual eye exam and urine microalbumin were within normal limits. The patient reports occasional tingling in the feet, and a monofilament test suggested early peripheral neuropathy. Foot care advice was given along with reinforcement of regular glucose monitoring.
+
+The patient is a non-smoker with occasional alcohol use. Family history is significant for type 2 diabetes in both parents. There are no known drug allergies.
+
+Plan: continue the current regimen, recheck HbA1c in three months, and consider adding an SGLT2 inhibitor if glycemic targets are not maintained.

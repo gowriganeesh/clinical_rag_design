@@ -1,0 +1,7 @@
+Patient is a 52-year-old with hyperlipidemia and gastroesophageal reflux disease. Lipid management includes atorvastatin 20mg once daily, with the most recent panel showing LDL cholesterol reduced to 95 mg/dL from a baseline of 160 mg/dL. Reflux symptoms are controlled with omeprazole taken before breakfast, and the patient reports significant improvement in heartburn and regurgitation.
+
+There is a notable family history of coronary artery disease, with a father who had a myocardial infarction in his fifties. The patient is overweight with a body mass index of 29 and has been counseled on weight reduction, increased physical activity, and a Mediterranean-style diet. A recent fasting glucose was normal, and there is no current evidence of diabetes.
+
+The patient is a former smoker who quit several years ago. There are no known drug allergies.
+
+Plan: continue statin and proton pump inhibitor therapy, repeat the lipid panel in six months, and consider cardiology risk stratification given the family history.

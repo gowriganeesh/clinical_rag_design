@@ -1,0 +1,7 @@
+Patient is a 67-year-old with chronic kidney disease stage 3, attributed to long-standing hypertension and diabetes. The most recent estimated glomerular filtration rate was 45 mL/min/1.73m2, stable over the past year.
+
+The patient has anemia of chronic kidney disease, with hemoglobin around 9.8 g/dL, and is receiving erythropoiesis-stimulating therapy along with oral iron supplementation. Blood pressure is managed with an ACE inhibitor, and the patient follows a reduced-sodium, moderate-protein diet. Phosphate and potassium levels are monitored regularly and have remained within acceptable limits.
+
+The patient reports mild fatigue but no shortness of breath, edema, or changes in urine output. There is no history of dialysis. The patient avoids nonsteroidal anti-inflammatory drugs as advised and is allergic to sulfa drugs.
+
+Plan: continue nephrology follow-up every three months, monitor hemoglobin and iron studies, and reinforce blood pressure and glycemic control to slow disease progression.
